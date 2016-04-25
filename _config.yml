@@ -1,0 +1,28 @@
+name: roboutik
+favicon: null
+layout_spectrum: 0.16149648185819387
+typography_spectrum: 0.742929695174098
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8906131430994719
+  lightness: 0.8980172448791564
+  saturation: 0.3699013916775584
+  rhythmicContrast: 0.33320704591460526
+purpose: []
